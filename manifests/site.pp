@@ -89,5 +89,3 @@ node default {
     target => $boxen::config::repodir
   }
 }
-
-include osx::global::disable_remote_control_ir_receiver

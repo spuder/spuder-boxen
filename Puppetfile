@@ -60,5 +60,6 @@ github "xquartz",     "1.1.1"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
-github "osx",   "2.7.0"   # https://github.com/boxen/puppet-osx/releases
-github "htop",  "1.0.0"   # https://github.com/skottler/puppet-htop/releases
+github "osx",    "2.7.0"   # https://github.com/boxen/puppet-osx/releases
+github "htop",   "1.0.0"   # https://github.com/skottler/puppet-htop/releases
+github "iterm2", "1.1.2"  # https://github.com/boxen/puppet-iterm2/releases

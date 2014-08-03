@@ -1,6 +1,23 @@
 class people::spuder {
 
   include osx::global::disable_remote_control_ir_receiver
+  include osx::global::expand_print_dialog
+  include osx::global::expand_save_dialog
+  include osx::dock::autohide
+  include osx::finder::show_external_hard_drives_on_desktop
+  include osx::finder::show_mounted_servers_on_desktop
+  include osx::finder::show_removable_media_on_desktop
+  include osx::finder::unhide_library 
+  include osx::no_network_dsstores
+  include osx::software_update
+  include osx::disable_app_quarantine
+  class { 'osx::global::key_repeat_delay':
+    delay => 10
+  }
+  class { 'osx::global::key_repeat_rate':
+    rate => 2
+  }
+
   #include htop # Broken https://github.com/skottler/puppet-htop/issues/1
   include evernote
   include iterm2::dev

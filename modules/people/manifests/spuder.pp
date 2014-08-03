@@ -41,7 +41,7 @@ class people::spuder {
   # include istatmenus4
   # include vmware_fusion
   # include heroku
-  # include chrome
+  include chrome
   include things
   include processing
   # include mumble

@@ -5,4 +5,3 @@ shared/*
 bin/
 log/
 Puppetfile.lock
-Puppetfile.lock

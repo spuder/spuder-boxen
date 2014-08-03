@@ -101,7 +101,7 @@ github "dropbox",      "1.2.0"  # https://github.com/boxen/puppet-dropbox/releas
 # github "istatmenus4",  "1.1.0"  # https://github.com/boxen/puppet-istatmenus4/releases
 # github "vmware_fusion", "1.1.0" # https://github.com/boxen/puppet-vmware_fusion/releases
 # github "heroku",       "2.0.0"  # https://github.com/boxen/puppet-heroku/releases
-# github "chrome",       "1.1.2"  # https://github.com/boxen/puppet-chrome/releases
+github "chrome",       "1.1.2"  # https://github.com/boxen/puppet-chrome/releases
 github "things",       "1.0.1"  # https://github.com/boxen/puppet-things/releases
 github "processing",   "1.1.0"  # https://github.com/boxen/puppet-processing/releases
 # github "mumble",       "1.5.0"  # https://github.com/boxen/puppet-mumble/releases

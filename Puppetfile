@@ -67,3 +67,4 @@ github "evernote", "2.0.4" #https://github.com/boxen/puppet-evernote/releases
 #github "sequel_pro", "1.0.1" # https://github.com/boxen/puppet-sequel_pro/releases 
 github "sublime_text", "1.0.1" # https://github.com/boxen/puppet-sublime_text/releases
 github "ipmitool", "1.0.0" # https://github.com/boxen/puppet-ipmitool/releases
+github "tunnelblick", "1.0.6" # https://github.com/boxen/puppet-tunnelblick/releases

@@ -40,7 +40,7 @@ class people::spuder {
   include dropbox
   # include istatmenus4
   # include vmware_fusion
-  # include heroku
+  include heroku
   include chrome
   include things
   include processing

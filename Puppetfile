@@ -110,7 +110,6 @@ github "handbrake",    "1.0.1"  # https://github.com/boxen/puppet-handbrake/rele
 github "graphviz",     "1.0.0"  # https://github.com/boxen/puppet-graphviz/releases
 github "screen",       "1.0.0"  # https://github.com/boxen/puppet-screen/releases
 github "cord",         "1.0.0"  # https://github.com/boxen/puppet-cord/releases
-github "divvy",        "1.0.1"  # https://github.com/boxen/puppet-divvy/releases
 github "swig",         "1.0.0"  # https://github.com/boxen/puppet-swig/releases
 github "pcre",         "1.0.0"  # https://github.com/boxen/puppet-pcre/releases
 github "bash",         "1.1.0"  # https://github.com/boxen/puppet-bash/releases

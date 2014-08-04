@@ -12,7 +12,7 @@ class people::spuder {
   include osx::software_update
   include osx::disable_app_quarantine
   class { 'osx::global::key_repeat_delay':
-    delay => 10
+    delay => 30
   }
   class { 'osx::global::key_repeat_rate':
     rate => 2
@@ -31,6 +31,7 @@ class people::spuder {
   include virtualbox
   include dash
   include calibre
+  include github_for_mac
   include onepassword
   include firefox
   include sparkleshare
@@ -67,7 +68,6 @@ class people::spuder {
   include graphviz
   include screen
   include cord
-  include divvy
   include swig
   include bash::completion
   include teamviewer

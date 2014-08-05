@@ -77,5 +77,6 @@ class people::spuder {
   include autojump
   include xbox_360_controller
   include silverlight
+  include notational_velocity::nvalt
 
 }

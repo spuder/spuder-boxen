@@ -120,3 +120,4 @@ github "induction",    "1.0.0"  # https://github.com/boxen/puppet-induction/rele
 github "autojump",     "1.0.0"  # https://github.com/boxen/puppet-autojump/releases
 github "xbox_360_controller", "1.0.1" # https://github.com/boxen/puppet-xbox_360_controller/releases
 github "silverlight",  "1.0.1"  # https://github.com/boxen/puppet-silverlight/releases
+github "notational_velocity", "1.1.2" # https://github.com/boxen/puppet-notational_velocity/releases
